@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.de9660da.css",
+    "main.js": "/static/js/main.c264b2cb.js",
+    "static/media/slogo.png": "/static/media/slogo.44b0b2693f2856c025f9.png",
+    "static/media/bg.png": "/static/media/bg.124112218c2c3848b24f.png",
+    "static/media/ig.png": "/static/media/ig.2db61d95f6711114dfaa.png",
+    "static/media/fb.png": "/static/media/fb.98943d1c5eb06f870c76.png",
+    "static/media/faq.png": "/static/media/faq.0bc1a0fd2f6ec009275c.png",
+    "static/media/spider logo.png": "/static/media/spider logo.afb7014659e29545d489.png",
+    "static/media/tick.png": "/static/media/tick.481e236f80e8636f78d7.png",
+    "static/media/bgblue.webp": "/static/media/bgblue.faa195df79f634919739.webp",
+    "static/media/cross.png": "/static/media/cross.58aa8d369ef5bbfd0574.png",
+    "static/media/bgsvg1.svg": "/static/media/bgsvg1.eb31e84eb9e5352b81ea.svg",
+    "static/media/pruple_ico.svg": "/static/media/pruple_ico.73745eb9399df077130b.svg",
+    "static/media/bgsvg2.svg": "/static/media/bgsvg2.1106ff80ff7734c23e9f.svg",
+    "index.html": "/index.html",
+    "static/media/quotes.svg": "/static/media/quotes.19e2cf67d03a3674d30c.svg",
+    "main.de9660da.css.map": "/static/css/main.de9660da.css.map",
+    "main.c264b2cb.js.map": "/static/js/main.c264b2cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de9660da.css",
+    "static/js/main.c264b2cb.js"
+  ]
+}
