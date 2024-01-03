@@ -1,25 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.3f51c60a.css",
-    "main.js": "/static/js/main.f2ef16e4.js",
-    "static/media/contact.png": "/static/media/contact.6735efab4539a4de30ba.png",
-    "static/media/faq.png": "/static/media/faq.0bc1a0fd2f6ec009275c.png",
-    "static/media/spider logo.png": "/static/media/spider logo.afb7014659e29545d489.png",
-    "static/media/tick.png": "/static/media/tick.481e236f80e8636f78d7.png",
+    "main.css": "/static/css/main.d76bbc24.css",
+    "main.js": "/static/js/main.1fe69dbd.js",
+    "static/media/bg.jpg": "/static/media/bg.a308f1943a0a946b3d4b.jpg",
+    "static/media/woman-bed.jpg": "/static/media/woman-bed.6e8954a728944ce24e98.jpg",
+    "static/media/homepage.jpg": "/static/media/homepage.aeb83b869251a90769ac.jpg",
+    "static/media/contact.png": "/static/media/contact.e3d85c30ac038d9226a2.png",
+    "static/media/faq.png": "/static/media/faq.b8bdc7b268e951926536.png",
     "static/media/Particles-0.1s-1280px.svg": "/static/media/Particles-0.1s-1280px.d2feef1473fca9dd83c3.svg",
-    "static/media/bgblue.webp": "/static/media/bgblue.faa195df79f634919739.webp",
-    "static/media/slogo.png": "/static/media/slogo.6e4749c61bfa8d5f8deb.png",
-    "static/media/cross.png": "/static/media/cross.58aa8d369ef5bbfd0574.png",
     "static/media/bgsvg1.svg": "/static/media/bgsvg1.eb31e84eb9e5352b81ea.svg",
     "static/media/pruple_ico.svg": "/static/media/pruple_ico.73745eb9399df077130b.svg",
     "static/media/bgsvg2.svg": "/static/media/bgsvg2.1106ff80ff7734c23e9f.svg",
     "index.html": "/index.html",
     "static/media/quotes.svg": "/static/media/quotes.19e2cf67d03a3674d30c.svg",
-    "main.3f51c60a.css.map": "/static/css/main.3f51c60a.css.map",
-    "main.f2ef16e4.js.map": "/static/js/main.f2ef16e4.js.map"
+    "main.d76bbc24.css.map": "/static/css/main.d76bbc24.css.map",
+    "main.1fe69dbd.js.map": "/static/js/main.1fe69dbd.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f51c60a.css",
-    "static/js/main.f2ef16e4.js"
+    "static/css/main.d76bbc24.css",
+    "static/js/main.1fe69dbd.js"
   ]
 }
